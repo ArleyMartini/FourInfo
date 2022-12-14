@@ -1,4 +1,4 @@
-package PW12022.fourinfo.lentities;
+package PW12022.fourinfo.entities;
 
 import java.io.Serializable;
 
